@@ -1,4 +1,4 @@
-print("Enter the dimensions of Triangle:")
+print("Enter the Dimensions of Triangle:")
 base_triangle=(int(input("Enter the base of triangle:")))
 height_triangle=(int(input("Enter the height of triangle:")))
 side_1=int(input("Enter the Side 1 of triangle:"))
